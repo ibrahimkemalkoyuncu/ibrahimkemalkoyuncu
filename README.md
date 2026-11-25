@@ -1,47 +1,24 @@
 # İbrahim Kemal Koyuncu
-## Kıdemli .NET Core & Microservices Teknik Lideri
+### Senior Software Architect & Technical Lead | .NET Core / .NET 10 • Distributed Systems • Legacy Modernization
 
-20+ yıllık backend development ve teknik liderlik deneyimine sahibim. Uzmanlık alanım, yüksek trafikli monolitik sistemleri modern .NET Core ve Microservices mimarilerine taşımak, performansı ve geliştirme hızını artırmaktır.
+20+ years of experience designing, modernizing, and delivering enterprise software across healthcare (HBYS, E-Nabız/Medula/e-Fatura), higher education (Boğaziçi University), public sector, embedded/IoT monitoring (TÜBİTAK), and high-performance CAD systems.
 
-🔭 **Şu anda üzerinde çalıştığım:** <a href="https://github.com/ibrahimkemalkoyuncu/microservice-ecommerce-demo" target="_blank" rel="noopener noreferrer">Microservice E-Ticaret Demo Projesi</a>
-🌱 **Öğreniyorum:** Kubernetes'in derinlikleri ve DDD (Domain-Driven Design)
-💬 **Bana sorun:** .NET Core, Microservices Migration, Azure DevOps, SQL Performance Tuning
-📫 **Bana ulaşın:** 
-<a href="https://www.linkedin.com/in/ibrahimkemalkoyuncu/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
-<a href="mailto:ibrahimkemalkoyuncu@gmail.com">ibrahimkemalkoyuncu@gmail.com</a>
+- 🏗️ **Core Architecture:** `.NET Core / .NET 10`, ASP.NET Core (Minimal API & Web API), Modular Monolith, Vertical Slice Architecture, DDD, CQRS (`MediatR`), Microservices
+- ⚡ **Data & Performance:** MS SQL Server (T-SQL, Index Tuning), Oracle, Entity Framework Core, Dapper, Redis
+- 🛡️ **Security, Observability & Testing:** JWT + Refresh Token Rotation, OWASP Top 10, Serilog, OpenTelemetry, Seq, xUnit, FluentAssertions, Testcontainers
+- 🖥️ **Frontend, Mobile & CAD:** Angular (Signals), React.js, TypeScript, Flutter (Riverpod), C++17, Vulkan, Qt6
+- 🚀 **DevOps:** Docker, Docker Compose, Azure DevOps, GitHub Actions
 
-### 🚀 Öne Çıkan Projeler
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/ibrahimkemalkoyuncu/) · [ibrahimkemalkoyuncu@gmail.com](mailto:ibrahimkemalkoyuncu@gmail.com)
 
-#### 1. <a href="https://github.com/ibrahimkemalkoyuncu/microservice-demo" target="_blank" rel="noopener noreferrer">Microservice Demo Projesi</a>
-- E-ticaret sistemleri için tam kapsamlı microservice mimarisi
-- Docker containerization ve Kubernetes orchestration
-- API Gateway, Service Discovery, Circuit Breaker pattern'ları
+---
 
-#### 2. <a href="https://github.com/ibrahimkemalkoyuncu/monolith-to-microservice-migration" target="_blank" rel="noopener noreferrer">Monolith'ten Microservice'e Migration Demo'su</a>
-- Legacy monolith sistemin modern microservice mimariye dönüşüm süreci
-- Database per service pattern ve event-driven communication
-- Zero-downtime migration stratejileri
+### Featured Public Repositories
 
-#### 3. <a href="https://github.com/ibrahimkemalkoyuncu/dotnet-core-clean-architecture" target="_blank" rel="noopener noreferrer">.NET Core Web API Template</a>
-- Clean Architecture prensipleriyle geliştirilmiş starter template
-- CQRS, MediatR, Entity Framework Core
-- JWT Authentication ve Role-based authorization
-
-#### 4. <a href="https://github.com/ibrahimkemalkoyuncu/azure-devops-pipelines" target="_blank" rel="noopener noreferrer">Azure DevOps CI/CD Pipeline Örnekleri</a>
-- Multi-stage pipeline yapıları
-- Automated testing ve quality gates
-- Blue-Green deployment stratejileri
-
-### 🛠️ Teknoloji Stack'im
-
-**Backend:** .NET Core, C#, ASP.NET Web API, Entity Framework Core  
-**Microservices:** Docker, Kubernetes, RabbitMQ, Redis  
-**Database:** SQL Server, PostgreSQL, MongoDB  
-**Cloud & DevOps:** Azure, Azure DevOps, GitHub Actions, Terraform  
-**Architecture:** Clean Architecture, DDD, CQRS, Event Sourcing  
-
-### 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimkemalkoyuncu&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkemalkoyuncu&layout=compact&theme=radical)
+- **[HBYS](https://github.com/ibrahimkemalkoyuncu/HBYS)** — Extraction-ready `.NET 10` Modular Monolith Hospital Information Management System (`DDD`, `Vertical Slice Architecture`, `CQRS/MediatR`, `EF Core + Dapper`, tenant-aware `Redis`, `Serilog + Seq`).
+- **[Vulkan (VKT — Mekanik Tesisat Draw)](https://github.com/ibrahimkemalkoyuncu/Vulkan)** — High-performance `C++17 / Vulkan / Qt6` desktop MEP CAD application featuring DXF/DWG import (`LibreDWG`), `O(1)` Quad-tree picking, hydraulic calculation engines (`TS EN 806-3`, `EN 12056-2`), and 10 C++ test suites.
+- **[CadKem](https://github.com/ibrahimkemalkoyuncu/cadkem)** — Next-generation `C++ / Vulkan` CAD rendering engine & UI architecture.
+- **[CMS Nexus](https://github.com/ibrahimkemalkoyuncu/cms-nexus)** — Modular `.NET 10` Content Management System built with Vertical Slice Architecture, activity logging, and automated tests.
+- **[AfneyGym](https://github.com/ibrahimkemalkoyuncu/AfneyGym)** — Multi-layered `.NET 10` Gym Management platform (`WebApi`, `WebMvc`, `Domain`, `Data`, `Service`, `Serilog`, EF Core).
+- **[Dodayi](https://github.com/ibrahimkemalkoyuncu/Dodayi)** — `.NET Core` Microservices architecture (`AuthAPI`, `BapAPI`, `ProductAPI`, `PersonAPI`, `CouponAPI`, `ShoppingCartAPI`, Docker).
+- **[AzureDeployUsingGithubActions](https://github.com/ibrahimkemalkoyuncu/AzureDeployUsingGithubActions.Todos.WebAPI)** — ASP.NET Core Web API CI/CD deployment pipeline to Azure via GitHub Actions.
